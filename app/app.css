@@ -8,3 +8,7 @@
 Button.-primary {
   font-size: 18;
 }
+
+Image.-primary {
+  width: 50px;
+}

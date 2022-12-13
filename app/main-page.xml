@@ -1,9 +1,9 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
     <ActionBar title="My App" icon="" />
     <StackLayout class="p-4">
-        <Label text="Please tap me" class="text-3xl text-center" />
-        <Button text="TAP" tap="{{ onTap }}" class="-primary" />
+        <Label text="ASDASDOIUASDOIAUSDOIAUS DOIUAS DOIAUS DOIASUDOISDU " class="text-3xl text-center" />
+        <Button text="VIKTOR" tap="{{ onTap }}" class="-primary" />
         <Label text="{{ message }}" class="text-lg text-center text-gray-400" textWrap="true" />
-        <Image src="https://cms.kerrang.com/images/Slayer-South-Of-Heaven-Cover.jpg" stretch="aspectFill"></Image>
+        <Image src="https://cdn.bitrix24.com/b9923393/landing/2f2/2f2225336b00b13eed59f1c6f99d16d2/alma.jpg" stretch="aspectFill"></Image>
     </StackLayout>
 </Page>
